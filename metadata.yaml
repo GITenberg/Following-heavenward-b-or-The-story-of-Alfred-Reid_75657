@@ -1,0 +1,59 @@
+_repo: Following-heavenward-b-or-The-story-of-Alfred-Reid_75657
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pansy
+    aliases:
+    - Alden, Isabella Macdonald
+    - Alden, Mrs. G. R. (Isabella)
+    - Alden, Isabella M.
+    birthdate: 1841
+    deathdate: 1930
+    gutenberg_agent_id: '4482'
+    url: http://www.gutenberg.org/2009/agents/4482
+    wikipedia: https://en.wikipedia.org/wiki/Isabella_Macdonald_Alden
+description: 'Reading ease score: 79.8 (7th grade). Fairly easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Culture/Civilization/Society'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75657'
+language: en
+pgterms:marc905: 20250213093013alden
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThomas Nelson and Sons, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Siblings -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'Sunday schools -- Juvenile fiction'
+- !lcsh 'Charity -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Heaven -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+summary: '"Following Heavenward: or, The Story of Alfred Reid" by Pansy is a novel
+  written in the early 20th century. The book follows the journey of the main character,
+  Alfred Reid, as he grapples with the legacy of his late sister, Esther Reid, who
+  was a compassionate soul dedicated to helping the underprivileged. The narrative
+  explores themes of duty, social responsibility, and the complexities of human relationships,
+  particularly in the context of urban poverty.  The opening of the story introduces
+  a rain-soaked city where Alfred Reid, a young clerk, reflects on the impactful life
+  of his sister, expressing confusion and sorrow over how to help a group of troubled
+  boys she had cared for. His internal struggle becomes apparent as he feels inadequate
+  to continue her work. Concurrently, we are introduced to Mrs. Roberts, an elegantly
+  dressed woman interested in Alfred’s sister''s life. They quickly engage in a conversation
+  about the boys of whom Alfred speaks, revealing a shared desire to assist them.
+  As Mrs. Roberts volunteers to take on the challenge of teaching a difficult children''s
+  class, Alfred’s reservations about her capabilities highlight the tension between
+  privilege and outreach, setting the stage for their eventual collaboration and the
+  unfolding narrative of compassion and community involvement. (This is an automatically
+  generated summary.)'
+title: 'Following heavenward : $b or, The story of Alfred Reid'
+url: http://www.gutenberg.org/ebooks/75657
